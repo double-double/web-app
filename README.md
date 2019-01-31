@@ -7,3 +7,4 @@ This repository is a prototype for a web app created in Graphic Design's Web Dev
 - Victoria Sheen
 - Krystyna Macleod
 - Sung woon Jeong
+- Tamra
