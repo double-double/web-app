@@ -1,5 +1,2 @@
 permalink: pretty
-theme: web-app
-
-patternbot:
-  font_url: "https://fonts.googleapis.com/css?family=Quicksand" rel="stylesheet"
+theme: web_app
