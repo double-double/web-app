@@ -1,5 +1,5 @@
 permalink: pretty
-theme: jekyll_patternbot
+theme: web-app
 
 patternbot:
   font_url: "https://fonts.googleapis.com/css?family=Quicksand" rel="stylesheet"
