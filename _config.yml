@@ -2,4 +2,7 @@ permalink: pretty
 theme: jekyll_patternbot
 
 patternbot:
+  title: "Double Double on the Double"
+  description: |
+    This app is showing where to find coffee around campus. It allows you to location the coffee localtion and know the wait times and tells you the quickes on to go to.
   font_url: "https://fonts.googleapis.com/css?family=Quicksand:400,700"
