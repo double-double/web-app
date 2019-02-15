@@ -11,3 +11,8 @@
 html {
   font-family: var(--font-primary);
 }
+
+h1 {
+  font-weight: bold;
+  color: #fff;
+}
