@@ -61,7 +61,7 @@ ul > li::before {
   display: block;
 }
 
-label {
+.nav-label {
   background: none;
 }
 
