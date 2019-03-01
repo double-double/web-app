@@ -1,46 +1,46 @@
 slides:
-  - storeIcon : portable-feast-icon.svg
-    storeHeader: Portable Feast
+  - storeIcon : starbucks-icon.svg
+    storeHeader: "Starbucks: E Building"
     storeImage: portable-feast.svg
+    storeText: |
+      Monday to Friday: 7:00am - 9:00pm
+      Satuday to Sunday: 7:30am - 9:00pm
+
+  - storeHeader: "Marketplace Food Court:  D Building"
+    storeImage: marketplace.svg
+    storeText: |
+      Monday to Thursday: 7:00 am- 7:00pm
+      Friday: 7:00am - 3:30pm
+
+  - storeHeader: "35th Street Market Café: Residence"
+    storeImage: 35th-strett-market.svg
+    storeText: |
+      Monday to Friday: 7:30am - 11:00pm
+      Saturday & Sunday: 9:00am - 11:00pm
+
+  - storeHeader: "Bits 'n Bytes: T Building"
+    storeImage: bits-n-bytes.svg
+    storeText: |
+      Monday to Thursday: 7:30am - 7:30pm
+      Friday: 7:30am - 4:00pm
+
+  - storeHeader: "The Fix Eatery: CA Building"
+    storeImage: the-fix.svg
+    storeText: |
+      Monday to Thursday: 7:00am - 7:00pm
+      Friday: 7:00am - 5:00pm
+
+  - storeHeader: "Tim Hortons: A Building"
+    storeImage: tim-hortons.svg
+    storeText: |
+      Monday to Thursday: 7:00am - 7:00pm
+      Friday: 7:00am - 6:00pm
+      Saturday: 8:30am - 2:00pm
+      Sunday: 8:30am - 2:00pm
+
+  - storeHeader: Portable Feast
+    storeImage:
     storeText: |
       The Portable Feast: B Building
       Monday to Thursday: 7:30am - 8:30pm
       Friday: 7:30am - 3:00pm
-
-    - storeHeader: Marketplace Food Court:  D Building
-      storeImage: marketplace.svg
-      storeText: |
-        Monday to Thursday: 7:00 am- 7:00pm
-        Friday: 7:00am - 3:30pm
-
-    - storeHeader: 35th Street Market Café: Residence
-      storeImage: 35th-strett-market.svg
-      storeText: |
-        Monday to Friday: 7:30am - 11:00pm
-        Saturday & Sunday: 9:00am - 11:00pm
-
-    - storeHeader: Bits 'n Bytes: T Building
-      storeImage: bits-n-bytes.svg
-      storeText: |
-        Monday to Thursday: 7:30am - 7:30pm
-        Friday: 7:30am - 4:00pm
-
-    - storeHeader: The Fix Eatery: CA Building
-      storeImage: the-fix.svg
-      storeText: |
-        Monday to Thursday: 7:00am - 7:00pm
-        Friday: 7:00am - 5:00pm
-
-    - storeHeader: Tim Hortons: A Building
-      storeImage: tim-hortons.svg
-      storeText: |
-        Monday to Thursday: 7:00am - 7:00pm
-        Friday: 7:00am - 6:00pm
-        Saturday: 8:30am - 2:00pm
-        Sunday: 8:30am - 2:00pm
-
-    - storeHeader: Starbucks: E Building
-      storeImage:
-      storeText: |
-        Monday to Friday: 7:00am - 9:00pm
-        Satuday to Sunday: 7:30am - 9:00pm
