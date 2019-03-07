@@ -29,6 +29,7 @@ label:hover {
   overflow: hidden;
   width: 100%;
   background: #fff;
+  color: var(--color-secondary);
 }
 
 input:checked + .info {

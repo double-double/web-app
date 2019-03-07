@@ -1,10 +1,16 @@
 <label for="check-{{include.id}}" class="embed embed-4by1">
-  <div class="icon i-48">
-    <img src="/images/icons/{{include.data.storeIcon}}" alt="">
-  </div>
-  <div class="">
-    <h1 class="absolute pin-c">{{include.data.storeHeader}}</h1>
-  </div>
+<div class="absolute pin-c">
+
+  <ul class="list-group-inline">
+    <li class="icon i-48 island">
+      <img class="img-flex" src="/images/icons/{{include.data.storeIcon}}" alt="">
+    </li>
+    <li class="island">
+      <h1 class="push-0">{{include.data.storeHeader}}</h1>
+    </li>
+
+  <ul>
+</div>
 
 </label>
 <input id="check-{{include.id}}" type="checkbox">
@@ -12,7 +18,7 @@
 <div class="info">
   <div class="grid">
     <div class="unit xs-1 gutter max-length pad-t">
-      <p class="milli">{{include.data.storeText}}</p>
+      <p class="milli bold">{{include.data.storeText}}</p>
 
     </div>
   </div>
