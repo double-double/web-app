@@ -28,10 +28,10 @@ label:hover {
   height: 0;
   overflow: hidden;
   width: 100%;
-  background: #25ADCE;
+  background: #fff;
 }
 
 input:checked + .info {
   height: 100%;
-  
+
 }
