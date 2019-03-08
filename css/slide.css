@@ -32,4 +32,5 @@ label:hover {
 
 .maps {
   display: none;
+  position: absolute;
 }
