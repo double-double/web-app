@@ -1,0 +1,51 @@
+slides:
+  - storeIcon : starbucks-icon.svg
+    storeHeader: Starbucks
+    storeSub: E Building
+    storeImage: portable-feast.svg
+    storeText: |
+      Monday to Friday: 7:00am - 9:00pm
+      Satuday to Sunday: 7:30am - 9:00pm
+
+  - storeIcon : starbucks-icon.svg
+    storeHeader: The Fix Eatery
+    storeSub: CA Building
+    storeImage: the-fix.svg
+    storeText: |
+      Monday to Thursday: 7:00am - 7:00pm
+      Friday: 7:00am - 5:00pm
+
+  - storeIcon : tim-hortons-icon.svg
+    storeHeader: Tim Hortons
+    storeSub: A Building
+    storeImage: tim-hortons.svg
+    storeText: |
+      Monday to Thursday: 7:00am - 7:00pm
+      Friday: 7:00am - 6:00pm
+      Saturday: 8:30am - 2:00pm
+      Sunday: 8:30am - 2:00pm
+
+  - storeIcon : bits-n-bytes-icon.svg
+    storeHeader: Bits 'n Bytes
+    storeSub: T Building
+    storeImage: bits-n-bytes.svg
+    storeText: |
+      Monday to Thursday: 7:30am - 7:30pm
+      Friday: 7:30am - 4:00pm
+
+  - storeIcon : marketplace-icon.svg
+    storeIcon : marketplace-icon.svg
+    storeHeader: Marketplace Food Court
+    storeSub: D Building
+    storeImage: marketplace.svg
+    storeText: |
+      Monday to Thursday: 7:00 am- 7:00pm
+      Friday: 7:00am - 3:30pm
+
+  - storeIcon : portable-feast-icon.svg
+    storeHeader: Portable Feast
+    storeSub: B Building
+    storeImage:
+    storeText: |
+      Monday to Thursday: 7:30am - 8:30pm
+      Friday: 7:30am - 3:00pm

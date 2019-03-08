@@ -1,12 +1,7 @@
-<!DOCTYPE html>
-<html lang="en-ca">
-<head>
-  <meta charset="utf-8">
-  <title>Web App</title>
-</head>
-<body>
-  <h1>Double Double on the Double</h1>
+---
+layout: default
+---
 
-  <h2>Dev lead's temporary heading</h2>
-</body>
-</html>
+{% for store in site.data.store.slides %}
+  {% pattern sections/slides data=store id=forloop.index %}
+{% endfor %}
