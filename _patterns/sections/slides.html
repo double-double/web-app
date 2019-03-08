@@ -1,20 +1,24 @@
 <label for="check-{{include.id}}" class="embed embed-4by1">
+<div class="absolute pin-c">
 
-  <div class="icon i-48">
-    <img src="/images/icons/{{include.data.storeIcon}}" alt="">
-  </div>
-  <div class="">
-    <h1 class="absolute pin-c">{{include.data.storeHeader}}</h1>
-  </div>
+  <ul class="list-group-inline">
+    <li class="icon i-48 gutter">
+      <img class="img-flex" src="/images/icons/{{include.data.storeIcon}}" alt="">
+    </li>
+    <li class="gutter-1-2">
+      <h1 class="push-0 peta">{{include.data.storeHeader}}</h1>
+    </li>
+  <ul>
+    <h2 class="tera light">{{include.data.storeSub}}</h2>
+</div>
 
 </label>
 <input id="check-{{include.id}}" type="checkbox">
 
 <div class="info">
-  <img class="img-flex gutter-1-2" src="/images/maps/{{include.data.storeImage}}" alt="">
   <div class="grid">
     <div class="unit xs-1 gutter max-length pad-t">
-      <p class="milli">{{include.data.storeText}}</p>
+      <p class="milli bold">{{include.data.storeText}}</p>
 
     </div>
   </div>
