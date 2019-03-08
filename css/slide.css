@@ -23,16 +23,13 @@ label:hover {
 }
 
 .info {
-  -webkit-transition: height .3s ease;
-  transition: height .3s ease;
-  height: 0;
+  display: none;
   overflow: hidden;
   width: 100%;
   background: #fff;
   color: var(--color-secondary);
 }
 
-input:checked + .info {
-  height: 100%;
-
-}s
+.maps {
+  display: none;
+}
