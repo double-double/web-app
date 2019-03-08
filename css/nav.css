@@ -70,3 +70,8 @@ nav a {
   display: inline-block;
   text-decoration: none;
 }
+
+.icon {
+  display: block;
+  margin: auto;
+}
