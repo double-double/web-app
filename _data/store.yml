@@ -1,12 +1,14 @@
 slides:
   - storeIcon : starbucks-icon.svg
-    storeHeader: "Starbucks: E Building"
+    storeHeader: Starbucks
+    storeSub: E Building
     storeImage: portable-feast.svg
     storeText: |
       Monday to Friday: 7:00am - 9:00pm
       Satuday to Sunday: 7:30am - 9:00pm
 
-  - storeHeader: "Marketplace Food Court:  D Building"
+  - storeIcon : marketplace-icon.svg
+    storeHeader: "Marketplace Food Court:  D Building"
     storeImage: marketplace.svg
     storeText: |
       Monday to Thursday: 7:00 am- 7:00pm
