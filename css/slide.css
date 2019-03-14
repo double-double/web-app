@@ -42,17 +42,6 @@ label:hover {
   position: none;
 }
 
-
-@media only screen and (min-width: 38em) {
-
-  .map-slide {
-    position: absolute;
-    left: 65%;
-    transform: translateX(-30%);
-  }
-
-}
-
 @media only screen and (min-width: 60em) {
 
   .map-slide {
