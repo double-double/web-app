@@ -13,13 +13,16 @@ label {
   transition: .5s ease-in-out;
 }
 
+.slides {
+  background-color: #fff;
+}
+
 label h1 {
   color: #fff;
 }
 
 label:hover {
-  -webkit-filter: opacity(70%);
-  filter: opacity(70%);
+  background-color: #c16c6c;
 }
 
 .info {
@@ -54,7 +57,7 @@ label:hover {
 
   .map-slide {
     position: absolute;
-    left: 51%;
+    left: 52%;
     transform: translateX(-30%);
   }
 
