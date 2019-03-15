@@ -76,3 +76,7 @@ nav a {
   display: block;
   margin: auto;
 }
+
+hr {
+  color: var(--color-primary);
+}
