@@ -13,13 +13,16 @@ label {
   transition: .5s ease-in-out;
 }
 
+.slides {
+  background-color: #fff;
+}
+
 label h1 {
   color: #fff;
 }
 
 label:hover {
-  -webkit-filter: opacity(70%);
-  filter: opacity(70%);
+  background-color: #c16c6c;
 }
 
 .info {
@@ -39,22 +42,11 @@ label:hover {
   position: none;
 }
 
-
-@media only screen and (min-width: 38em) {
-
-  .map-slide {
-    position: absolute;
-    left: 65%;
-    transform: translateX(-30%);
-  }
-
-}
-
 @media only screen and (min-width: 60em) {
 
   .map-slide {
     position: absolute;
-    left: 51%;
+    left: 52%;
     transform: translateX(-30%);
   }
 
