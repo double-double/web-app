@@ -1,12 +1,13 @@
 ---
 layout: default
+title: Coffee app for Algonquin College.
 ---
 
 {% for store in site.data.store.slides %}
   <input id="check-{{forloop.index}}" type="radio" name="stores" {% if forloop.first %}checked{% endif %}>
 {% endfor %}
 
-<div class="grid relative">
+<main class="grid relative">
 
   <div class="unit xs-1 s-1 m-1 l-2-3 relative map-slide">
     <div class="embed embed-iso216">
@@ -23,7 +24,7 @@ layout: default
   </div>
 
 
-</div>
+</main>
 
 <style>
   {% for store in site.data.store.slides %}
